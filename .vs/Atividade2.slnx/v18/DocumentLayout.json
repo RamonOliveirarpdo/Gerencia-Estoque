@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\aplications\\estoqueaplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:aplications\\estoqueaplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\configurations\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:configurations\\appconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\controllers\\movimentaestoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:controllers\\movimentaestoquecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\interfaces\\iestoqueaplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:interfaces\\iestoqueaplications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\enums\\tipooperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:enums\\tipooperacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\models\\estoqueproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:models\\estoqueproduto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\models\\listaestoquerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:models\\listaestoquerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|c:\\users\\ramon\\source\\repos\\atividade2\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE467EFD-77DE-1A46-6016-84926618B75D}|Atividade2.csproj|solutionrelative:models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:15:16.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Configurations\\AppConfig.cs",
+              "RelativeDocumentMoniker": "Configurations\\AppConfig.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Configurations\\AppConfig.cs",
+              "RelativeToolTip": "Configurations\\AppConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-01T17:10:31.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-12-01T17:07:39.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TipoOperacao.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Enums\\TipoOperacao.cs",
+              "RelativeDocumentMoniker": "Enums\\TipoOperacao.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Enums\\TipoOperacao.cs",
+              "RelativeToolTip": "Enums\\TipoOperacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T23:02:08.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEstoqueAplications.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Interfaces\\IEstoqueAplications.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IEstoqueAplications.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Interfaces\\IEstoqueAplications.cs",
+              "RelativeToolTip": "Interfaces\\IEstoqueAplications.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAABmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:52:57.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovimentaEstoqueController.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Controllers\\MovimentaEstoqueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovimentaEstoqueController.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Controllers\\MovimentaEstoqueController.cs",
+              "RelativeToolTip": "Controllers\\MovimentaEstoqueController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-30T22:44:52.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ListaEstoqueRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Models\\ListaEstoqueRequest.cs",
+              "RelativeDocumentMoniker": "Models\\ListaEstoqueRequest.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Models\\ListaEstoqueRequest.cs",
+              "RelativeToolTip": "Models\\ListaEstoqueRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T02:16:42.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstoqueAplications.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Aplications\\EstoqueAplications.cs",
+              "RelativeDocumentMoniker": "Aplications\\EstoqueAplications.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Aplications\\EstoqueAplications.cs",
+              "RelativeToolTip": "Aplications\\EstoqueAplications.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:43:04.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EstoqueProduto.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Models\\EstoqueProduto.cs",
+              "RelativeDocumentMoniker": "Models\\EstoqueProduto.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Models\\EstoqueProduto.cs",
+              "RelativeToolTip": "Models\\EstoqueProduto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:40:06.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Ramon\\source\\repos\\Atividade2\\Models\\Produto.cs",
+              "RelativeToolTip": "Models\\Produto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T19:35:39.021Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+[
+  {
+    "ContainingType": "Atividade2.Controllers.MovimentaEstoqueController",
+    "Method": "MovimentaEstoque",
+    "RelativePath": "api/MovimentaEstoque",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tipoEntrada",
+        "Type": "Atividade2.Enums.TipoOperacao",
+        "IsRequired": false
+      },
+      {
+        "Name": "estoqueRequest",
+        "Type": "Atividade2.Models.ListaEstoqueRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Atividade2.Models.EstoqueProdutoResponse, Atividade2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
